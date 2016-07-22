@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1467634647 source:c:\users\gshan\desktop\weiming's stuff\fin_as\fin_as\202_270_assignment3_deliverable2\solver\main.cpp
+	<iostream>
+	<MatrixAlgebra.h>
+	<MatrixViewer.h>
+	<RevisedSimplexMethod.h>
+
+1467182525 c:\users\gshan\desktop\weiming's stuff\fin_as\fin_as\202_270_assignment3_deliverable2\solver\include\matrix.h
+	<vector>
+
+1467547489 source:c:\users\gshan\desktop\weiming's stuff\fin_as\fin_as\202_270_assignment3_deliverable2\solver\src\matrix.cpp
+	"Matrix.h"
+	<iostream>
+
+1467117686 source:c:\users\gshan\desktop\weiming's stuff\fin_as\fin_as\202_270_assignment3_deliverable2\solver\src\matrixalgebra.cpp
+	"MatrixAlgebra.h"
+	<matrix.h>
+
+1467097298 c:\users\gshan\desktop\weiming's stuff\fin_as\fin_as\202_270_assignment3_deliverable2\solver\include\matrixalgebra.h
+	<matrix.h>
+
+1466863519 c:\users\gshan\desktop\weiming's stuff\fin_as\fin_as\202_270_assignment3_deliverable2\solver\include\matrixviewer.h
+	<Matrix.h>
+
+1466923938 source:c:\users\gshan\desktop\weiming's stuff\fin_as\fin_as\202_270_assignment3_deliverable2\solver\src\matrixviewer.cpp
+	"MatrixViewer.h"
+	<iostream>
+	<Matrix.h>
+	<vector>
+
+1467637631 source:c:\users\gshan\desktop\weiming's stuff\fin_as\fin_as\202_270_assignment3_deliverable2\solver\src\revisedsimplexmethod.cpp
+	"RevisedSimplexMethod.h"
+	<MatrixAlgebra.h>
+	<MatrixViewer.h>
+	<algorithm>
+	<iostream>
+	<limits>
+
+1467201637 c:\users\gshan\desktop\weiming's stuff\fin_as\fin_as\202_270_assignment3_deliverable2\solver\include\revisedsimplexmethod.h
+	<MatrixAlgebra.h>
+
